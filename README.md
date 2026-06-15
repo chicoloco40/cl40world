@@ -59,3 +59,4 @@ url = "https://www.app.example.com/preferences"
 
 [build]
 automatically_update_urls_on_dev = false
+shopify app dev [flags]
